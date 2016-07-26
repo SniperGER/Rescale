@@ -1,0 +1,30 @@
+/* 
+  Root.strings
+  
+
+  Created by Janik Schmidt on 25.07.16.
+
+*/
+
+"PROJECT_TITLE" = "Re:Scale";
+
+"DEVICE_IPHONE_TITLE" = "iPhone";
+"DEVICE_IPHONE_4" = "iPhone 4s";
+"DEVICE_IPHONE_5" = "iPhone 5/5s/5c";
+"DEVICE_IPHONE_6" = "iPhone 6/6s";
+"DEVICE_IPHONE_6PLUS" = "iPhone 6 Plus/6s Plus";
+
+"DEVICE_IPAD_TITLE" = "iPad";
+"DEVICE_IPAD_NO_RETINA" = "iPad 2/iPad mini";
+"DEVICE_IPAD_RETINA" = "iPad Retina";
+"DEVICE_IPAD_PRO" = "iPad Pro (12.9\")";
+
+"UNSUPPORTED_RESOLUTIONS"="Nicht unterstützte Auflösungen können manuell über „Eigene Auflösung“ eingestellt werden";
+
+"CUSTOM_TITLE" = "Eigene Auflösung";
+"CUSTOM_X" = "Breite";
+"CUSTOM_Y" = "Höhe";
+"CUSTOM_APPLY" = "Auflösung anwenden";
+"CUSTOM_SAVE" = "Auflösung sichern";
+"CUSTOM_LIST_TITLE" = "Gesicherte Auflösungen";
+"CUSTOM_FOOTER" = "Eigene Auflösungen dürfen nur mit Vorsicht genossen werden. Wenn die Auflösung zu hoch ist, kann es zu einem dauerhaft schwarzen Bildschirm kommen. Um dies zu beheben, muss die Auflösung umständlich zurückgesetzt werden. Wir empfehlen daher, OpenSSH zu installieren.";

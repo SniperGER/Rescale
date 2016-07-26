@@ -1,0 +1,13 @@
+"ERROR_IPAD_RETINA"="This is a resolution specific to Retina iPads. Because you are using a Non-Retina iPad, this resoulution is not available.";
+"ERROR_IPAD_NO_RETINA"="This is a resolution specific to Non-Retina iPads. Because you are using a Retina iPad, this resoulution is not available.";
+"ERROR_IPAD"="This is a resolution specific to iPhones. Because you are using an iPad, this resoulution is not available.";
+"ERROR_IPHONE"="This is a resolution specific to iPads. Because you are using an iPhone, this resoulution is not available.";
+"ERROR_VALUES_EMPTY"="The values for width and height must not be empty!";
+"ERROR_VALUES_INVALID"="The values for width and height must not fall below a minimal resolution of 640x960 and must not exceed a maximum resolution of 2048x2732!";
+"ERROR_OK"="Ok";
+
+"MESSAGE_CONFIRM"="Re:Scale will now set the resolution to %dx%d";
+"MESSAGE_CONFIRM_CANCEL"="Cancel";
+"MESSAGE_CONFIRM_PROCEED"="Proceed";
+
+"CUSTOM_NO_ENTRY"="Nothing to see here";

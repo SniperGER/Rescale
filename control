@@ -1,0 +1,10 @@
+Package: ml.festival.rescale
+Name: Re:Scale
+Depends: mobilesubstrate
+Version: 1.0
+Architecture: iphoneos-arm
+Depiction: https://festival.ml/repo/depictions?p=ml.festival.rescale
+Description: A modern Upscale alternative!
+Maintainer: Sniper_GER
+Author: Sniper_GER
+Section: Tweaks

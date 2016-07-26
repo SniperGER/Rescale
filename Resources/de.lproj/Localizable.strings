@@ -1,0 +1,15 @@
+"ERROR_IPAD_RETINA"="Diese Auflösung ist für iPads mit Retina-Display bestimmt. Da Sie ein iPad ohne Retina-Display nutzen, ist diese Auflösung nicht verfügbar.";
+"ERROR_IPAD_NO_RETINA"="Diese Auflösung ist für iPads ohne Retina-Display bestimmt. Da Sie ein iPad mit Retina-Display nutzen, ist diese Auflösung nicht verfügbar.";
+"ERROR_IPAD"="Diese Auflösung ist für iPads bestimmt. Da Sie ein iPhone nutzen, ist diese Auflösung nicht verfügbar.";
+"ERROR_IPHONE"="Diese Auflösung ist für iPhones bestimmt. Da Sie ein iPad nutzen, ist diese Auflösung nicht verfügbar.";
+"ERROR_VALUES_EMPTY"="Die Werte für Breite und Höhe dürfen nicht leer sein!";
+"ERROR_VALUES_INVALID"="Die Werte für Breite und Höhe dürfen eine minimale Auflösung von 640x960 nicht unterschreiten, sowie eine Auflösung von 2048x2732 nicht überschreiten!";
+"ERROR_OK"="OK";
+
+"MESSAGE_CONFIRM"="Re:Scale wird nun eine Auflösung von %dx%d anwenden.";
+"MESSAGE_CONFIRM_CANCEL"="Abbrechen";
+"MESSAGE_CONFIRM_PROCEED"="Fortfahren";
+
+"CUSTOM_NO_ENTRY"="Nichts zu sehen";
+
+"CUSTOM_VALUES_SAVED"="Die Auflösung %dx%d wurde gespeichert.";
